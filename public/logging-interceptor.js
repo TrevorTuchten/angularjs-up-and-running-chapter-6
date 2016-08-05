@@ -1,4 +1,6 @@
-// File: chapter6/public/logging-interceptor.js
+/**
+ * Created by tntdi_000 on 7/28/2016.
+ */
 angular.module('notesApp', [])
   .controller('MainCtrl', ['$http', function($http) {
     var self = this;

@@ -1,4 +1,6 @@
-// File: chapter6/public/http-defaults.js
+/**
+ * Created by tntdi_000 on 7/28/2016.
+ */
 
 angular.module('notesApp', [])
   .controller('LoginCtrl', ['$http', function($http) {
