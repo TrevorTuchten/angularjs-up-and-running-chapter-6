@@ -1,4 +1,4 @@
-f// File: chapter6/public/logging-interceptor.js
+// File: chapter6/public/logging-interceptor.js
 angular.module('notesApp', [])
   .controller('MainCtrl', ['$http', function($http) {
     var self = this;
